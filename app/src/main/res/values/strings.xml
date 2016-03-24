@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiElementGrid</string>
+
+    <!-- Multi Grid -->
+    <string name="view_holding_type_element">View holding element of type %1$s</string>
+    <string name="no_elements_in_grid">No elements in list</string>
+</resources>
