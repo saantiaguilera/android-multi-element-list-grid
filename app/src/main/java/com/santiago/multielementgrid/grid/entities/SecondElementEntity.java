@@ -36,10 +36,8 @@ public class SecondElementEntity extends JSONEntity {
     }
 
     @Override
-    public SecondElementEntity setValuesFrom(JSONObject jsonObject) throws JSONException {
+    public void setValuesFrom(JSONObject jsonObject) throws JSONException {
         super.setValuesFrom(jsonObject);
-
-        return this;
     }
 
     @Override
